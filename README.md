@@ -11,7 +11,7 @@
 * **Materia:** Delitos Cibernéticos
 * **Docente:** Dulce María Vázquez Caro
 * **Institución:** Universidad Madero (Puebla, México)
-* **Despliegue en Vivo:** [Ver Portafolio en GitHub Pages](https://tu-usuario.github.io/tu-repositorio/) *(reemplaza con tu URL)*
+* **Despliegue en Vivo:** [Ver Portafolio en GitHub Pages]([https://tu-usuario.github.io/tu-repositorio/](https://h4d3sx.github.io/DelitosCiberneticos/))
 
 ---
 
